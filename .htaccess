@@ -6,8 +6,8 @@ RewriteRule ^meeting$ "https\:\/\/calendly\.com\/chance\/30min\/" [R=301,L]
 
 Redirect /meet https://calendly.com/chance/30min
 Redirect /video/chance https://plus.google.com/hangouts/_/event/ctebi4qhd0udkenvldep5i90tv4
-Redirect 301 /chat https://plus.google.com/hangouts/_/event/ctebi4qhd0udkenvldep5i90tv4
-a
+Redirect 301 /chat https://plus.google.com/hangouts/_/event/ctebi4qhd0udkenvldep5i90tv4a
+
 Redirect /bucketlist /bucketlist.php
 Redirect /churchupdates https://chance3.typeform.com/to/FUjuUo
 Redirect /church-updates https://chance3.typeform.com/to/FUjuUo
