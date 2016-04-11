@@ -33,10 +33,10 @@
         <h2><i class="fa fa-square-o"></i> Foundation Bank</h2>
       </div>
       <div class="jumbotron pms">
-        <h2><i class="fa fa-square-o"></i> Leaders Credit Union</h2>
-      </div>
-      <div class="jumbotron pms">
         <h2><i class="fa fa-square-o"></i> Kontakt Mission USA</h2>
+      </div>
+      <div class="jumbotron pms bucketListDone">
+        <h2><i class="fa fa-check-square-o"></i> Leaders Credit Union (2.0) <a class="btn btn-md btn-default" href="http://leaderscu.com" role="button">Site &raquo;</a></h2>
       </div>
       <div class="jumbotron pms bucketListDone">
         <h2><i class="fa fa-check-square-o"></i> Iron.io (2.0) <a class="btn btn-md btn-default" href="http://iron.io" role="button">Site &raquo;</a></h2>
