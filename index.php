@@ -32,6 +32,14 @@
                 <h2 class="visible-lg">Strategist | Leader | Developer</h2>
                 <p class="visible-lg">Here are the businesses and projects I'm excitedly apart of.</p>
             </div>
+            
+            <div class="jumbotron latest-work">
+                <h1>Latest Work</h1>
+                <p>Here's what I've been up to.</p>
+                <p>
+                    <a class="btn btn-lg btn-default" href="/gigs.php" role="button">Latest gigs &raquo;</a>
+                </p>
+            </div>
 
             <div class="jumbotron blog" id="blog">
                 <h1>Daily Strategy</h1>
@@ -50,21 +58,13 @@
                 </p>
             </div>
 
-            <div class="jumbotron latest-work">
-                <h1>Latest Work</h1>
-                <p>Here's what I've been up to.</p>
-                <p>
-                    <a class="btn btn-lg btn-default" href="/gigs.php" role="button">Latest gigs &raquo;</a>
-                </p>
-            </div>
-
-            <div class="jumbotron otherProjects">
+            <!-- <div class="jumbotron otherProjects">
                 <h1>Side Projects</h1>
                 <p>There are always other irons in the fire. I have some side items that I've put up here. I hope by adding these projects someone will find a use for them or get inspired.</p>
                 <p>
                     <a class="btn btn-lg btn-primary" href="/projects.php" role="button">View other projects &raquo;</a>
                 </p>
-            </div>
+            </div> -->
 
         </div>
         <!-- /container -->

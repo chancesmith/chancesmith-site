@@ -31,7 +31,7 @@
             
             <li class="divider"></li>
             <li class="dropdown-header">Side Work</li>
-            <li><a href="http://betterjoblanding.com">Better Job Landing</a></li>
+            <!-- <li><a href="http://betterjoblanding.com">Better Job Landing</a></li> -->
             <li><a href="http://wolfgangcomputer.com">Wolfgang Computer</a></li>
             <li><a href="http://thismedinahome.com">This Medina Home</a></li>
             <li><a href="http://mollysmith.org">MollySmith.org</a></li>

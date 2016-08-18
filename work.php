@@ -43,14 +43,14 @@
         </p>
       </div>
 
-      <div class="jumbotron bjl">
+      <!-- <div class="jumbotron bjl">
         <h1>Better Job Landing</h1>
         <p>In an attempt to help applicants find great employers to work for, and help employers find great employees to hire, I founded and built BJL. </p>
         <p>To see the progress on v3.0 thus far checkout the site.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="http://betterjoblanding.com" role="button">View the site &raquo;</a>
         </p>
-      </div>
+      </div> -->
 
       <div class="jumbotron wcs">
         <h1>Wolfgang Computer Service</h1>
