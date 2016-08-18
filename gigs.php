@@ -39,7 +39,7 @@
         <h2><i class="fa fa-check-square-o"></i> Kontakt Mission USA <a class="btn btn-md btn-default" href="https://gokmusa.org" role="button">Site &raquo;</a></h2>
       </div>
       <div class="jumbotron pms bucketListDone">
-        <h2><i class="fa fa-check-square-o"></i> Alexander Thompson Arnold (ATA) <a class="btn btn-md btn-default" href="https://atacpa.com" role="button">Site &raquo;</a></h2>
+        <h2><i class="fa fa-check-square-o"></i> Alexander Thompson Arnold (ATA) <a class="btn btn-md btn-default" href="https://atacpa.net" role="button">Site &raquo;</a></h2>
       </div>
       <div class="jumbotron pms bucketListDone">
         <h2><i class="fa fa-check-square-o"></i> Foundation Bank <a class="btn btn-md btn-default" href="https://foundationbank.org" role="button">Site &raquo;</a></h2>
