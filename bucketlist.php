@@ -32,7 +32,7 @@
             </div>
 
             <div class="jumbotron pms bucketListDone">
-                <h2><i class="fa fa-check-square-o"></i> Skydive Tandem <a class="btn btn-md btn-primary" href="http://blog.chancesmith.org/skydive-2014/" role="button">My Jump &raquo;</a></h2>
+                <h2><i class="fa fa-check-square-o"></i> Skydive <a class="btn btn-md btn-primary" href="http://blog.chancesmith.org/skydive-2014/" role="button">My Jump &raquo;</a></h2>
             </div>
             <div class="jumbotron pms">
                 <h2><i class="fa fa-square-o"></i> Learn to speed read (1,200 WPM)</h2>
@@ -44,10 +44,13 @@
                 <h2><i class="fa fa-check-square-o"></i> Scuba dive</h2>
             </div>
             <div class="jumbotron pms">
+                <h2><i class="fa fa-square-o"></i> Scuba dive with Molly (wife)</h2>
+            </div>
+            <div class="jumbotron pms">
                 <h2><i class="fa fa-square-o"></i> Hot air balloon</h2>
             </div>
             <div class="jumbotron pms">
-                <h2><i class="fa fa-square-o"></i> 100 miles on bike in one week</h2>
+                <h2><i class="fa fa-square-o"></i> cycle 100 miles in one week</h2>
             </div>
             <div class="jumbotron pms bucketListDone">
                 <h2><i class="fa fa-check-square-o"></i> Travel to a different country</h2>
