@@ -11,3 +11,4 @@ Redirect 301 /chat https://plus.google.com/hangouts/_/event/ctebi4qhd0udkenvldep
 Redirect /bucketlist /bucketlist.php
 Redirect /churchupdates https://chance3.typeform.com/to/FUjuUo
 Redirect /church-updates https://chance3.typeform.com/to/FUjuUo
+Redirect /giftmatch http://giftmatch.herokuapp.com

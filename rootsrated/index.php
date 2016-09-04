@@ -200,7 +200,7 @@
  
 RootsRated,
 
-I can offer you seven years of experience building dynamic and static
+I can offer you five years of experience building dynamic and static
 websites/web-apps for tech startup companies. I have excellent project management
 skills, and an exceptional eye for detail, all of which should make me the
 ideal candidate for this opening.
