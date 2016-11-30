@@ -30,10 +30,13 @@
       </div>
       <h2>2016</h2>
       <div class="jumbotron pms">
-        <h2><i class="fa fa-square-o"></i> Anderson Design Group</h2>
-      </div>
-      <div class="jumbotron pms">
         <h2><i class="fa fa-square-o"></i> Mission Convalescent Home</h2>
+      </div>
+      <div class="jumbotron pms bucketListDone">
+        <h2><i class="fa fa-check-square-o"></i> Anderson Design Group <a class="btn btn-md btn-default" href="https://adgstore.com" role="button">Site &raquo;</a></h2>
+      </div>
+      <div class="jumbotron pms bucketListDone">
+        <h2><i class="fa fa-check-square-o"></i> POPVOX 3.0 <a class="btn btn-md btn-default" href="https://popvox.com" role="button">Site &raquo;</a></h2>
       </div>
       <div class="jumbotron pms bucketListDone">
         <h2><i class="fa fa-check-square-o"></i> Kontakt Mission USA <a class="btn btn-md btn-default" href="https://gokmusa.org" role="button">Site &raquo;</a></h2>
