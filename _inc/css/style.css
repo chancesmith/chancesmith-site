@@ -1,0 +1,51 @@
+body {
+  font-family: 'Lato', sans-serif;
+  line-height: 28px;
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1em;
+}
+
+h2 {
+  font-size: 3em;
+  line-height: 3em;
+}
+
+a {
+  text-decoration: none;
+  color: #006cff;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #006cff;
+}
+
+.header {
+  background: linear-gradient(to right, #01bcf5, #006cff);
+  color: rgba(255, 255, 255, 0.89);
+}
+.header a {
+  text-decoration: none;
+  color: #fff;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #fff;
+}
+
+.wrap {
+  padding: 4% 5%;
+}
+
+.intro-card .title {
+  padding-left: 4px;
+}
+
+highlight {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 3px 5px;
+}
