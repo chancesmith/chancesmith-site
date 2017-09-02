@@ -37,6 +37,8 @@ a {
   margin-bottom: 13px; }
 .intro-card h1 {
   margin-left: -1px; }
+.intro-card a {
+  border: none; }
 
 highlight {
   background: rgba(255, 255, 255, 0.2);
