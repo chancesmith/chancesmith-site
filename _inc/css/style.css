@@ -35,8 +35,8 @@ a {
 
 .intro-card .chance-img {
   margin-bottom: 13px; }
-.intro-card .title {
-  padding-left: 4px; }
+.intro-card h1 {
+  margin-left: -1px; }
 
 highlight {
   background: rgba(255, 255, 255, 0.2);
