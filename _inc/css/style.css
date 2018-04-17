@@ -1,47 +1,37 @@
 body {
-  font-family: 'Lato', sans-serif;
-  line-height: 28px;
-  font-size: 16px; }
+  margin: 40px auto;
+  width: 40vw;
+  max-width: 470px;
+  font-family: "Ubuntu", sans-serif;
+}
+@media screen and (max-width: 700px) {
+  body {
+    width: 75vw;
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    width: 80vw;
+  }
+}
 
-h1, h2 {
-  font-family: sans-serif;
-  font-weight: bold; }
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1em; }
-
-h2 {
-  font-size: 3em;
-  line-height: 1.5em; }
+p {
+  line-height: 1.5em;
+  color: #444;
+}
 
 a {
   text-decoration: none;
-  color: #006cff;
-  padding-bottom: 3px;
-  border-bottom: 1px solid #006cff; }
+  color: #444;
+}
 
-.header {
-  background: linear-gradient(to right, #01bcf5, #006cff);
-  color: rgba(255, 255, 255, 0.89); }
-  .header a {
-    text-decoration: none;
-    color: #fff;
-    padding-bottom: 3px;
-    border-bottom: 1px solid #fff; }
-
-.wrap {
-  padding: 4% 5%; }
-
-.intro-card .chance-img {
-  margin-bottom: 13px; }
-.intro-card h1 {
-  margin-left: -1px; }
-.intro-card a {
-  border: none; }
-
-highlight {
-  background: rgba(255, 255, 255, 0.2);
-  padding: 3px 5px; }
-
-/*# sourceMappingURL=style.css.map */
+a.button {
+  display: inline-block;
+  margin: 12px 0 0 0;
+  color: white;
+  background: #222;
+  padding: 10px 15px;
+}
+a.button:hover {
+  opacity: 0.9;
+}
